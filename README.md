@@ -1,5 +1,9 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+Prototype cosmetics store as part of the henk ecosystem.
+
+![merge_from_ofoct](https://github.com/vlad-henk/henk-store/assets/108754931/ad5d68b6-422a-41b3-b096-fe92c7bd4c22)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
